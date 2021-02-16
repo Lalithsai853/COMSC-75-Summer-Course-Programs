@@ -1,0 +1,12 @@
+Psueducode
+
+Ask the user to enter length and width of the pizza and number of toppings
+
+Calculate total area using multiplication 
+
+If area is zero or negative or num of toppings is negative or area is greater tban 1000 , print error (if statement)
+
+Use if-else chain to determine cost of pizza and size of pizza (small, medium, or large)
+
+Add cost of toppings on top of the pizza cost (0.85 Euros)
+
